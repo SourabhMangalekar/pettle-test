@@ -23,13 +23,15 @@
     "@fullcalendar/angular": "^6.1.5",
     "@fullcalendar/core": "^6.1.5",
     "@fullcalendar/daygrid": "^6.1.5",
+    "@syncfusion/ej2-angular-schedule": "^21.1.41",
     "bootstrap": "^5.2.3",
     "hammerjs": "^2.0.8",
     "material-design-icons": "^3.0.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "tslint": "^6.1.3",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.11.4",
+    "@syncfusion/ej2-material-theme": "~21.1.41"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.1.0",
